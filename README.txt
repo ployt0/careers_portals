@@ -6,6 +6,7 @@ PHINXT Robotics https://phinxt.com/
 
 ## Apply direct:
 
+
 https://careers.edfenergy.com/search/?createNewAlert=false&q=&locationsearch=uk
 https://jobs.eon.com/en
 https://octopus.energy/careers/join-us/?_gl=1*1nli950*_up*MQ..&gclid=EAIaIQobChMIwIzN2835hwMVwZZQBh2ayQ4HEAAYASAAEgLNRvD_BwE#/
