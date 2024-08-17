@@ -11,8 +11,10 @@ https://careers.edfenergy.com/search/?createNewAlert=false&q=&locationsearch=uk
 https://jobs.eon.com/en
 https://octopus.energy/careers/join-us/?_gl=1*1nli950*_up*MQ..&gclid=EAIaIQobChMIwIzN2835hwMVwZZQBh2ayQ4HEAAYASAAEgLNRvD_BwE#/
 https://www.centrica.com/careers/find-a-job/
+https://careers.ovo.com/opportunities
 https://jobs.royalmailgroup.com/go/Technology/4480501/
 https://careershub.metoffice.gov.uk/v2/job/search?page=2
+https://www.civilservicejobs.service.gov.uk/csr/index.cgi?SID=b3duZXI9NTA3MDAwMCZwYWdlYWN0aW9uPXNlYXJjaGNvbnRleHQmY29udGV4dGlkPTkyMzU2NTY3JnBhZ2VjbGFzcz1TZWFyY2gmb3duZXJ0eXBlPWZhaXImcmVxc2lnPTE3MjM4NzIwMjMtYjMxOWNjZmEwMjYyZjFhMjAyYjQ1Y2QzOWJjMDI0OTA1YmJjMWViMA==
 https://jobs.justice.gov.uk/?s=&role-type=information-technology
 https://jobs.justice.gov.uk/search-page/
 https://careers.thirdbridge.com/vacancies?
@@ -27,6 +29,7 @@ https://frasers.group/careers/jobs
 https://careers.sky.com/jobs
 https://jobs.bt.com/search/?createNewAlert=false&q=&locationsearch=&optionsFacetsDD_brand=&optionsFacetsDD_customfield3=
 https://jobs.virginmediao2.co.uk/en_US/careersmarketplace/SearchJobs
+https://jobs.vodafone.com/careers
 https://careers.firstgroup.co.uk/jobs/search?query=united+kingdom
 https://careers.nationalexpress.com/search
 https://www.stagecoachbus.com/careers/job-search-results/all/all
@@ -39,6 +42,11 @@ https://www.wellsfargojobs.com/en/jobs/
 https://liveramp.wd5.myworkdayjobs.com/LiveRampCareers
 https://www.accenture.com/gb-en/careers/jobsearch?jk=&sb=1&vw=0&is_rj=0&pg=1
 https://gbr.sika.com/en/careers/current-vacancies.html
+https://careers.cognizant.com/uki-en/jobs/?keyword=&industry=Technology&location=London%2C+UK&radius=100&lat=51.5072178&lng=-0.1275862&cname=United+Kingdom&ccode=GB&pagesize=10#results
+https://www.worldpokertour.com/careers-job-listings/
+https://careers.wtwco.com/job-search-results/
+https://apply.workable.com/proxymity/
+https://cgi.njoyn.com/corp/xweb/xweb.asp?CLID=21001&page=joblisting&lang=1
 
 https://jobs.apple.com/en-gb/search?location=United-Kingdom-GBR&team=Apps-and-Frameworks-SFTWR-AF
 https://jobs.careers.microsoft.com/global/en/search?lc=United%20Kingdom&l=en_us&pg=1&pgSz=20&o=Relevance&flt=true&ulcs=false&ref=cms
@@ -65,4 +73,5 @@ https://mycareer.hsbc.com/en_GB/external/SearchJobs/?1017=%5B%2267222%22%5D&1017
 https://jobs.rbc.com/ca/en/
 https://group.bnpparibas/en/careers/all-job-offers?domain=6%7C168&country=8%7C10%7C43%7C44%7C45%7C46%7C47%7C48%7C49%7C50%7C51%7C52%7C53%7C54%7C55%7C56%7C57%7C58%7C59%7C60%7C61%7C62%7C63%7C64%7C65%7C66%7C67%7C68%7C210%7C211%7C212%7C213%7C214%7C215%7C217%7C218%7C219%7C220%7C221%7C222%7C224%7C225%7C226%7C227%7C228%7C810%7C858%7C859%7C883%7C908%7C934%7C1402%7C1475%7C1995
 https://careers.db.com/professionals/search-roles/#/professional/results/
+https://careers.virginmoney.com/search-jobs
 
