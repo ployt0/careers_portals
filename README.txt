@@ -47,6 +47,7 @@ https://www.worldpokertour.com/careers-job-listings/
 https://careers.wtwco.com/job-search-results/
 https://apply.workable.com/proxymity/
 https://cgi.njoyn.com/corp/xweb/xweb.asp?CLID=21001&page=joblisting&lang=1
+https://jobs.gartner.com/jobs/?search=&city=
 
 https://jobs.apple.com/en-gb/search?location=United-Kingdom-GBR&team=Apps-and-Frameworks-SFTWR-AF
 https://jobs.careers.microsoft.com/global/en/search?lc=United%20Kingdom&l=en_us&pg=1&pgSz=20&o=Relevance&flt=true&ulcs=false&ref=cms
